@@ -10,6 +10,6 @@ html {
 
 @media only screen (max-width: 800px) {
   a[href="bear.html"] {
-    left: 800px;
+    left: 2em;
   }
 }
