@@ -9,7 +9,7 @@ html {
 }
 
 @media only screen (max-width: 800px) {
-  a[href="bear.html"] {
-    left: 2em;
+  #bear {
+    left: 800px;
   }
 }
