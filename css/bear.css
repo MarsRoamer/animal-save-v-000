@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 
-@media only screen (min-width: 800px) {
+@media only screen (max-width: 800px) {
   a[href="bear.html"] {
     left: 800px;
   }
