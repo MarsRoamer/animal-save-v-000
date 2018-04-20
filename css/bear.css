@@ -8,5 +8,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media only screen (min-width: 800px) {
+  a[href="bear.html"] {
+    left: 800px;
+  }
+}
 
